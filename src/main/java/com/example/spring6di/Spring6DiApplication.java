@@ -1,6 +1,6 @@
 package com.example.spring6di;
 
-import com.example.spring6di.controller.MyController;
+import com.example.spring6di.controllers.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

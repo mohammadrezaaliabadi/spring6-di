@@ -1,4 +1,4 @@
-package com.example.spring6di.controller;
+package com.example.spring6di.controllers;
 
 import com.example.spring6di.services.GreetingService;
 import com.example.spring6di.services.GreetingServiceImpl;
